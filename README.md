@@ -1,6 +1,6 @@
-# 📚 GenRead – AI-Powered Book Recommendation System
+# 📚 Book Recommender – AI-Powered Book Recommendation System
 
-GenRead is a full-stack web application that recommends books based on user selection using content-based filtering and enhances suggestions with AI-generated explanations. It integrates a React frontend, Node.js + Express backend, and a Python Flask microservice powered by OpenAI’s GPT to provide intelligent and personalized book recommendations.
+Book Recommender is a full-stack web application that recommends books based on user selection using content-based filtering and enhances suggestions with AI-generated explanations. It integrates a React frontend, Node.js + Express backend, and a Python Flask microservice powered by OpenAI’s GPT to provide intelligent and personalized book recommendations.
 
 ---
 
